@@ -1,4 +1,4 @@
----
+---ddd
 plugins:
 - name: wildcard_plugin
   description: Allows user to search and delete apps using wildcard(*) 
